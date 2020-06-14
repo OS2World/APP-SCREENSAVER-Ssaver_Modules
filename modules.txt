@@ -1,0 +1,41 @@
+       OS/2 Upload Information Template for ftp-os2.cdrom.com
+
+Archive Name: Ssaver11_module.zip
+Program Description: Varius Screen saver 1.1 module.
+Operating System: OS/2 2.x
+
+Program Source: Toniolo Emanuele < floppy@maya.dei.unipd.it >
+
+Replaces:
+
+Your name: Toniolo Emanuele
+Your email address: floppy@maya.dei.unipd.it
+
+Proposed directory for placement: os2/2_x/graphics
+
+This is my porting of special module of unix lock screen Xlock for the Screen Saver 1.1 by Siegfried Hanisch.  This have been tested under version 1.1 only.
+
+Use:
+Copy a Cset/2 Dll\DDE4MBS.DLL in a directory on your libpath and copy the modules on directory Modules in the directory of Screen Saver 1.1 .
+
+This modules works fine on my system  ( 486 Dx 33 Mhz 8 Mb ram and TVGA8900C ).
+
+You may feel free to distribute this wherever you want, and if you can
+earn money off of them, by all means do, as long as the .ssm module are
+in no way altered, and this "readme" file accompanies the .ssm module
+wherever they go.
+
+If you have anything to say about my Screen saver module can you send email at:
+
+	floppy@paola.dei.unipd.it or floppy@maya.dei.unipd.it
+
+or if you like send a postcard of your city at:
+	
+	Toniolo Emanuele
+		Via dell'elettricita` 29 Marghera 30175 VENEZIA ( Italy )
+
+Ps
+Sorry for my english , is not my language :-) :-) !!	
+
+
+

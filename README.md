@@ -5,7 +5,7 @@ Varius Screen saver 1.1 module.
 * BSD 3 Clauses
 
 ## COMPILE TOOLS
-* 
+* C
 * DDE4MBS.DLL
  
 ## AUTHORS

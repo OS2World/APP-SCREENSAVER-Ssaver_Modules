@@ -1,0 +1,13 @@
+;
+;	flame.def
+;	Flame saver module definition file
+;	(C) 1994 Toniolo Emanuele
+;
+
+LIBRARY	flame INITINSTANCE TERMINSTANCE
+DESCRIPTION	'Flame ScreenSaver module  (C) 1994 Toniolo Emanuele'
+
+DATA	SINGLE SHARED
+EXPORTS
+	SAVER_PROC
+

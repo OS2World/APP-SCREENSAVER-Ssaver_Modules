@@ -1,0 +1,26 @@
+;
+;	hopalong.def
+;	Hopalong saver module definition file
+;	(C) 1993 Toniolo Emanuele
+;
+
+;	$$$$$ change code here $$$$$
+;	Between the keywords LIBRARY and INITGLOBAL, insert the file(!) name
+;	of your new module. It must be exactly the same name as the one of
+;	the resulting *.ssm file; if it is not, OS/2 will refuse to load the
+;	file.
+;	If you want to be able to use the file on a FAT drive, make sure the
+;	name does not exceed 8 characters.
+;	After the DESCRIPTION keyword, you can add a comment or copyright
+;	string or something like that.
+;	Do not change the rest of the file (the DATA and EXPORTS sections).
+;
+LIBRARY	hopalong INITINSTANCE TERMINSTANCE
+DESCRIPTION	'Hopalong ScreenSaver module  (C) 1994 Toniolo Emanuele'
+
+DATA	SINGLE SHARED
+EXPORTS
+	SAVER_PROC
+
+
+
